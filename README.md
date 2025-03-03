@@ -18,8 +18,8 @@ This is a simple **file metadata microservice** built with **Node.js and Express
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/yourusername/file-metadata-microservice.git
-cd file-metadata-microservice
+git clone https://github.com/md-talim/fcc-filemetadata.git
+cd fcc-filemetadata
 ```
 
 ### 2️⃣ Install dependencies  
